@@ -1,4 +1,4 @@
-# POM-in-Selenimum-and-Python
+# POM-in-Selenium-and-Python
 page-object-model-in-selenium-python
 
 Page Object Model (POM) is a design pattern in Selenium, and has the following benefits:
